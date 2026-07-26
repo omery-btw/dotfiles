@@ -1,0 +1,53 @@
+[window]
+opacity = 0.95
+padding.x = 10
+padding.y = 10
+
+[terminal.shell]
+program = "/usr/bin/zsh"
+
+[font]
+size = 11.0
+
+[window.dimensions]
+columns = 175
+lines = 45
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[colors.primary]
+background = "#1e2127"
+foreground = "#abb2bf"
+
+[colors.normal]
+black = "#1e2127"
+red = "#e06c75"
+green = "#98c379"
+yellow = "#d19a66"
+blue = "#61afef"
+magenta = "#c678dd"
+cyan = "#56b6c2"
+white = "#abb2bf"
+
+[colors.bright]
+black = "#5c6370"
+red = "#e06c75"
+green = "#98c379"
+yellow = "#d19a66"
+blue = "#61afef"
+magenta = "#c678dd"
+cyan = "#56b6c2"
+white = "#ffffff"
+
+[terminal]
+
