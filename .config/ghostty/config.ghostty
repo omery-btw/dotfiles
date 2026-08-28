@@ -1,0 +1,19 @@
+# Ghostty Konfigurationsdatei
+
+# Catppuccin Mocha Blue Theme
+theme = catppuccin-mocha.conf
+background-opacity = 0.8
+
+# I-Balken Cursor
+#cursor-style = "ibeam"
+
+# Fira Code Nerd Font
+font-family = "Fira Code Nerd Font"
+font-size = 11
+
+#Terminalgröße 180x50
+window-width = 175
+window-height = 50
+
+# Standard-Shell auf zsh festlegen
+command = "zsh"
